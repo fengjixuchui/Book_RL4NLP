@@ -1,6 +1,6 @@
 <div align="center">
 
-**Book: Representation Learning for Natural Language Processing**
+## Book: Representation Learning for Natural Language Processing
 
 ------
 
