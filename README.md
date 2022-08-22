@@ -1,8 +1,6 @@
 <div align="center">
 
-## Book: Representation Learning for Natural Language Processing
-
-------
+# Book: Representation Learning for Natural Language Processing
 
 <p align="center">
   <a href="#Abstract">Download</a> •
@@ -13,8 +11,6 @@
   <a href="#Updates">Citation</a>
 </p>
 </div>
-
-
 
 ## Download
 
