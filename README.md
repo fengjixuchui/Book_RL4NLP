@@ -91,5 +91,5 @@ For the whole book, we thank Chaojun Xiao and Zhengyan Zhang for drawing model f
   title={Representation Learning for Natural Language Processing}, \
   author={Liu, Zhiyuan and Lin, Yankai and Sun, Maosong},\
   year={2022},\
-  url={https://github.com/thunlp/RL4NLP},\
+  url={(https://github.com/thunlp/RL4NLP)}, \
 }
