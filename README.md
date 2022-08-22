@@ -1,8 +1,5 @@
 <div align="center">
 
-
-<img src="figure/cover_rl4nlp.jpeg" width="150px">
-
 **Book: Representation Learning for Natural Language Processing**
 
 ------
@@ -66,6 +63,10 @@ For the whole book, we thank Chaojun Xiao and Zhengyan Zhang for drawing model f
 **Aug 22, 2022** Correction: We find duplicated contents with others' articles and confirm all are from the initial draft prepared by a research assistant in our team in 2017, who was acknowledged as a key contributor in the 2020 edition. The author team is responsible for failing to prevent this issue from happening. We did not keep alert enough to potential misconduct, and thus did not find the duplicate issue even after several rounds of revision and proofreading and finally included the duplicate contents unintentionally into the 2020 edition. We sincerely apologize for the duplicate issue. We will try our best to make the case never happen again, by writing and proofreading more carefully, and applying duplicate detection to each material released by our team in the future. We have requested the publisher to retract the corresponding chapter, but it may take some time to complete the process. In this online version, we have replaced all these contents with a new and shorter summary, and also removed the research assistant from acknowledgements.
 
 **Jul 03, 2020** The first edition is published in Springer as an Open Access book.
+
+<div align="center">
+<img src="figure/cover_rl4nlp.jpeg" width="150px">
+</div>
 
 ## Table of Contents
 
