@@ -20,7 +20,7 @@
 
 [<a href="RL4NLP.pdf">pdf</a>] (update: Aug 22, 2022)
 
-We welcome any feedback, corrections, and suggestions on the book, which may be sent to liuzy@tsinghua.edu.cn or posted as issues in this repository. We will keep updating the book here, according to your feedback and recent advances in representation learning.
+We welcome any feedback, corrections, and suggestions on the book, which may be posted as issues in this repository. We will keep updating the book here, according to your feedback and recent advances in representation learning.
 
 ## Abstract
 
@@ -28,11 +28,10 @@ This book provides an overview of the recent advances in representation learning
 
 The theories and algorithms of representation learning presented can also benefit other related domains such as machine learning, social network analysis, semantic Web, information retrieval, data mining and computational biology. This book is intended for advanced undergraduate and graduate students, post-doctoral fellows, researchers, lecturers, and industrial engineers, as well as anyone interested in representation learning and natural language processing.
 
+<div align="center">
 <img src="figure/Representation_Learning.pdf" width="550px">
-
-<center>Distributed representation can provide 
-  unified semantic space for NLP</center>
-
+Distributed representation can provide unified semantic space for NLP.
+</div>
 
 ## Authors
 
