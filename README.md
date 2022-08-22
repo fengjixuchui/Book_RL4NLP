@@ -30,11 +30,10 @@ We welcome any feedback, corrections, and suggestions on the book, which may be 
 This book provides an overview of the recent advances in representation learning theory, algorithms and applications for natural language processing (NLP). It is divided into three parts. Part I presents the representation learning techniques for multiple language entries, including words, phrases, sentences and documents. Part II then introduces the representation techniques for those objects that are closely related to NLP, including entity-based world knowledge, sememe-based linguistic knowledge, networks, and cross-modal entries. Lastly, Part III provides open resource tools for representation learning techniques, and discusses the remaining challenges and future research directions.
 
 The theories and algorithms of representation learning presented can also benefit other related domains such as machine learning, social network analysis, semantic Web, information retrieval, data mining and computational biology. This book is intended for advanced undergraduate and graduate students, post-doctoral fellows, researchers, lecturers, and industrial engineers, as well as anyone interested in representation learning and natural language processing.
-
-<img src="figure/Representation_Learning.pdf" width="550px">
-
-<center>Distributed representation can provide 
-  unified semantic space for NLP</center>
+<div align="center">
+<img src="figure/Representation_Learning.jpeg" width="550px">
+Distributed representation can provide unified semantic space for NLP
+</div>
 
 
 ## Authors
