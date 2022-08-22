@@ -30,7 +30,7 @@ The theories and algorithms of representation learning presented can also benefi
 
 <div align="center">
 
-<img src="figure/Representation_Learning.jpeg" width="550px"> /
+<img src="figure/Representation_Learning.jpeg" width="550px">
 
 Distributed representation can provide unified semantic space for NLP
 </div>
