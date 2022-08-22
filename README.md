@@ -18,7 +18,7 @@
 
 ## Download
 
-[<a href="RL4NLP.pdf" target="_blank">pdf</a>] (update: Aug 22, 2022)
+[<a href="https://github.com/thunlp/Book_RL4NLP/raw/main/RL4NLP.pdf" target="_blank">pdf</a>] (update: Aug 22, 2022)
 
 We welcome any feedback, corrections, and suggestions on the book, which may be posted as issues in this repository. We will keep updating the book here, according to your feedback and recent advances in representation learning.
 
