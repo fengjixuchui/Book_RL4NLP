@@ -29,7 +29,9 @@ This book provides an overview of the recent advances in representation learning
 The theories and algorithms of representation learning presented can also benefit other related domains such as machine learning, social network analysis, semantic Web, information retrieval, data mining and computational biology. This book is intended for advanced undergraduate and graduate students, post-doctoral fellows, researchers, lecturers, and industrial engineers, as well as anyone interested in representation learning and natural language processing.
 
 <div align="center">
+
 <img src="figure/Representation_Learning.jpeg" width="550px">
+
 Distributed representation can provide unified semantic space for NLP
 </div>
 
