@@ -18,7 +18,7 @@
 
 ## Download
 
-[<a href="RL4NLP.pdf">pdf</a>] (update: Aug 22, 2022)
+[<a href="RL4NLP.pdf" target="_blank">pdf</a>] (update: Aug 22, 2022)
 
 We welcome any feedback, corrections, and suggestions on the book, which may be posted as issues in this repository. We will keep updating the book here, according to your feedback and recent advances in representation learning.
 
@@ -30,7 +30,7 @@ The theories and algorithms of representation learning presented can also benefi
 
 <div align="center">
 
-<img src="figure/Representation_Learning.jpeg" width="550px">
+<img src="figure/Representation_Learning.jpeg" width="550px"> /
 
 Distributed representation can provide unified semantic space for NLP
 </div>
