@@ -4,21 +4,12 @@
 
 <p align="center">
   <a href="#Abstract">Download</a> •
-  <a href="#Abstract">Abstract</a> •
   <a href="#Authors">Authors</a> •
   <a href="#Updates">Updates</a> •
   <a href="#Updates">Table of Contents</a> •
   <a href="#Updates">Citation</a>
 </p>
 </div>
-
-## Download
-
-[<a href="https://github.com/thunlp/Book_RL4NLP/raw/main/RL4NLP.pdf" target="_blank">pdf</a>] (update: Aug 22, 2022)
-
-We welcome any feedback, corrections, and suggestions on the book, which may be posted as issues in this repository. We will keep updating the book here, according to your feedback and recent advances in representation learning.
-
-## Abstract
 
 This book provides an overview of the recent advances in representation learning theory, algorithms and applications for natural language processing (NLP). It is divided into three parts. Part I presents the representation learning techniques for multiple language entries, including words, phrases, sentences and documents. Part II then introduces the representation techniques for those objects that are closely related to NLP, including entity-based world knowledge, sememe-based linguistic knowledge, networks, and cross-modal entries. Lastly, Part III provides open resource tools for representation learning techniques, and discusses the remaining challenges and future research directions.
 
@@ -30,6 +21,12 @@ The theories and algorithms of representation learning presented can also benefi
 
 Distributed representation can provide unified semantic space for NLP
 </div>
+
+We welcome feedback, corrections, and suggestions to the book, that can be posted as issues under this repository. We will keep updating the book here, according to your feedback and recent advances in representation learning.
+
+## Download
+
+[<a href="https://github.com/thunlp/Book_RL4NLP/raw/main/RL4NLP.pdf" target="_blank">pdf</a>] (update: Aug 22, 2022)
 
 ## Authors
 
@@ -57,12 +54,14 @@ For the whole book, we thank Chaojun Xiao and Zhengyan Zhang for drawing model f
 
 ## Updates
 
-**Aug 22, 2022** Correction: We find duplicated contents with others' articles and confirm all are from the initial draft prepared by a research assistant in our team in 2017, who was acknowledged as a key contributor in the 2020 edition. The author team is responsible for failing to prevent this issue from happening. We did not keep alert enough to potential misconduct, and thus did not find the duplicate issue even after several rounds of revision and proofreading and finally included the duplicate contents unintentionally into the 2020 edition. We sincerely apologize for the duplicate issue. We will try our best to make the case never happen again, by writing and proofreading more carefully, and applying duplicate detection to each material released by our team in the future. We have requested the publisher to retract the corresponding chapter, but it may take some time to complete the process. In this online version, we have replaced all these contents with a new and shorter summary, and also removed the research assistant from acknowledgements.
+**Aug 22, 2022** Correction: We find some contents in a chapter duplicate with others' articles and confirm all these contents are from the initial draft prepared by a research assistant in our team in 2017, who was acknowledged as a key contributor of this chapter in the 2020 edition. The author team is responsible for failing to prevent it from happening, and we sincerely apologize for this incident. We did not keep alert enough to potential misconduct, and thus did not find the duplicate issue even after several rounds of revision and proofreading and finally included the duplicate contents unintentionally into the 2020 edition. We will try our best to make the case never happen again, by writing and proofreading more carefully, and applying duplicate detection to each material to be released by our team in the future. We have requested the publisher to retract the corresponding chapter, but it may take some time to complete the process. In this online version, we have replaced all these contents with a new and shorter summary, and also removed the research assistant from acknowledgements.
 
 **Jul 03, 2020** The first edition is published in Springer as an Open Access book.
 
 <div align="center">
 <img src="figure/cover_rl4nlp.jpeg" width="150px">
+
+The first-edition book cover.
 </div>
 
 ## Table of Contents
