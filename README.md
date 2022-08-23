@@ -63,6 +63,8 @@ For the whole book, we thank Chaojun Xiao and Zhengyan Zhang for drawing model f
 
 <div align="center">
 <img src="figure/cover_rl4nlp.jpeg" width="150px">
+
+The first-edition book cover.
 </div>
 
 ## Table of Contents
