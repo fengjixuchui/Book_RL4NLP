@@ -4,21 +4,12 @@
 
 <p align="center">
   <a href="#Abstract">Download</a> •
-  <a href="#Abstract">Abstract</a> •
   <a href="#Authors">Authors</a> •
   <a href="#Updates">Updates</a> •
   <a href="#Updates">Table of Contents</a> •
   <a href="#Updates">Citation</a>
 </p>
 </div>
-
-## Download
-
-[<a href="https://github.com/thunlp/Book_RL4NLP/raw/main/RL4NLP.pdf" target="_blank">pdf</a>] (update: Aug 22, 2022)
-
-We welcome feedback, corrections, and suggestions to the book, that can be posted as issues under this repository. We will keep updating the book here, according to your feedback and recent advances in representation learning.
-
-## Abstract
 
 This book provides an overview of the recent advances in representation learning theory, algorithms and applications for natural language processing (NLP). It is divided into three parts. Part I presents the representation learning techniques for multiple language entries, including words, phrases, sentences and documents. Part II then introduces the representation techniques for those objects that are closely related to NLP, including entity-based world knowledge, sememe-based linguistic knowledge, networks, and cross-modal entries. Lastly, Part III provides open resource tools for representation learning techniques, and discusses the remaining challenges and future research directions.
 
@@ -30,6 +21,12 @@ The theories and algorithms of representation learning presented can also benefi
 
 Distributed representation can provide unified semantic space for NLP
 </div>
+
+## Download
+
+[<a href="https://github.com/thunlp/Book_RL4NLP/raw/main/RL4NLP.pdf" target="_blank">pdf</a>] (update: Aug 22, 2022)
+
+We welcome feedback, corrections, and suggestions to the book, that can be posted as issues under this repository. We will keep updating the book here, according to your feedback and recent advances in representation learning.
 
 ## Authors
 
