@@ -22,11 +22,11 @@ The theories and algorithms of representation learning presented can also benefi
 Distributed representation can provide unified semantic space for NLP
 </div>
 
+We welcome feedback, corrections, and suggestions to the book, that can be posted as issues under this repository. We will keep updating the book here, according to your feedback and recent advances in representation learning.
+
 ## Download
 
 [<a href="https://github.com/thunlp/Book_RL4NLP/raw/main/RL4NLP.pdf" target="_blank">pdf</a>] (update: Aug 22, 2022)
-
-We welcome feedback, corrections, and suggestions to the book, that can be posted as issues under this repository. We will keep updating the book here, according to your feedback and recent advances in representation learning.
 
 ## Authors
 
