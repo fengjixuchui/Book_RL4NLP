@@ -26,7 +26,7 @@ We welcome feedback, corrections, and suggestions to the book, that can be poste
 
 ## Download
 
-[<a href="https://github.com/thunlp/Book_RL4NLP/raw/main/RL4NLP.pdf" target="_blank">pdf</a>] (update: Aug 22, 2022)
+[<a href="https://github.com/thunlp/Book_RL4NLP/raw/main/RL4NLP.pdf" target="_blank">pdf</a>] (update: Aug 25, 2022)
 
 ## Authors
 
@@ -36,7 +36,7 @@ We welcome feedback, corrections, and suggestions to the book, that can be poste
 
 **Maosong Sun** is a Professor at the Department of Computer Science and Technology and the Executive Vice Dean of the Institute for Artificial Intelligence, Tsinghua University. His research interests include natural language processing, machine learning, computational humanities and social sciences. He is the chief scientist of the National Key Basic Research and Development Program (973 Program), the chief expert of various major National Social Science Fund of China projects, and a member of The Academy of Europe. He has published over 200 papers at leading conferences and journals. He is the Director of Tsinghua University-National University of Singapore Joint Research Center on Next Generation Search Technologies, and the editor-in-chief of the Journal of Chinese Information Processing.
 
-**Other Contributors** (mentioned in Acknowledgements of the book, updated on Aug 18, 2022). The authors are very grateful to the contributions of our students and research collaborators, who have prepared initial drafts of some chapters or have given us comments, suggestions, and corrections. We list main contributors for preparing initial drafts of each chapter as follows,
+**Other Contributors** (mentioned in Acknowledgements of the book, updated on Aug 25, 2022). The authors are very grateful to the contributions of our students and research collaborators, who have prepared initial drafts of some chapters or have given us comments, suggestions, and corrections. We list main contributors for preparing initial drafts of each chapter as follows,
 
 - Chapter 1: Tianyu Gao, Zhiyuan Liu.
 - Chapter 2: Lei Xu, Yankai Lin.
@@ -54,7 +54,7 @@ For the whole book, we thank Chaojun Xiao and Zhengyan Zhang for drawing model f
 
 ## Updates
 
-**Aug 22, 2022** Correction: We find some contents in a chapter duplicate with others' articles and confirm all these contents are from the initial draft prepared by a research assistant in our team in 2017, who was acknowledged as a key contributor of this chapter in the 2020 edition. The author team is responsible for failing to prevent it from happening, and we sincerely apologize for this incident. We did not keep alert enough to potential misconduct, and thus did not find the duplicate issue even after several rounds of revision and proofreading and finally included the duplicate contents unintentionally into the 2020 edition. We will try our best to make the case never happen again, by writing and proofreading more carefully, and applying duplicate detection to each material to be released by our team in the future. We have requested the publisher to retract the corresponding chapter, but it may take some time to complete the process. In this online version, we have replaced all these contents with a new and shorter summary, and also removed the research assistant from acknowledgements.
+**Aug 25, 2022** Correction: We find some contents in a chapter duplicate with others' articles and confirm all these contents are from the initial draft prepared by a research assistant in our team in 2017, who was acknowledged as a key contributor of this chapter in the 2020 edition. The author team is responsible for failing to prevent it from happening, and we sincerely apologize for this incident. We did not keep alert enough to potential misconduct, and thus did not find the duplicate issue even after several rounds of revision and proofreading and finally included the duplicate contents unintentionally into the 2020 edition. We will try our best to make the case never happen again, by writing and proofreading more carefully, and applying duplicate detection to each material to be released by our team in the future. We have requested the publisher to retract the corresponding chapter, but it may take some time to complete the process. In this online version, we have replaced all these contents with a new and shorter summary, and also removed the research assistant from acknowledgements.
 
 **Jul 03, 2020** The first edition is published in Springer as an Open Access book.
 
