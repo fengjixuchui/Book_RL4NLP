@@ -1,6 +1,7 @@
 <div align="center">
 
-# Representation Learning for Natural Language Processing \ Second Edition
+# Representation Learning for Natural Language Processing
+  Second Edition
 
 <p align="center">
   <a href="#News">News</a> •
