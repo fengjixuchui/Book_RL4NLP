@@ -37,18 +37,18 @@ We welcome feedback, corrections, and suggestions to the book that can be posted
 
 ### Second Edition
 
-- Chapter 1: Representation Learning and NLP [<a href="2ed/1-intro.pdf" target="_blank">pdf</a>]
-- Chapter 2: Word Representation Learning [<a href="2ed/2-word.pdf" target="_blank">pdf</a>]
-- Chapter 3: Representation Learning for Compositional Semantics [<a href="2ed/3-comp.pdf" target="_blank">pdf</a>]
-- Chapter 4: Sentence and Document Representation Learning [<a href="2ed/4-sent.pdf" target="_blank">pdf</a>]
+- Chapter 1: Representation Learning and NLP [<a href="2ed/1-intro.pdf" target="_blank">pdf</a>]  (update: Oct 07, 2022)
+- Chapter 2: Word Representation Learning [<a href="2ed/2-word.pdf" target="_blank">pdf</a>]  (update: Oct 07, 2022)
+- Chapter 3: Representation Learning for Compositional Semantics [<a href="2ed/3-comp.pdf" target="_blank">pdf</a>]  (update: Oct 07, 2022)
+- Chapter 4: Sentence and Document Representation Learning [<a href="2ed/4-sent.pdf" target="_blank">pdf</a>]  (update: Oct 07, 2022)
 - Chapter 5: Pre-trained Models for Representation Learning [TBA]
 - Chapter 6: Graph Representation Learning [TBA]
-- Chapter 7: Cross-Modal Representation Learning [<a href="2ed/7-modal.pdf" target="_blank">pdf</a>]
-- Chapter 8: Robust Representation Learning [<a href="2ed/8-robust.pdf" target="_blank">pdf</a>]
+- Chapter 7: Cross-Modal Representation Learning [<a href="2ed/7-modal.pdf" target="_blank">pdf</a>]  (update: Oct 07, 2022)
+- Chapter 8: Robust Representation Learning [<a href="2ed/8-robust.pdf" target="_blank">pdf</a>]  (update: Oct 07, 2022)
 - Chapter 9: Knowledge Representation Learning and Knowledge-guided NLP [TBA]
-- Chapter 10: Sememe Knowledge Representation Learning [<a href="2ed/10-sememe.pdf" target="_blank">pdf</a>]
-- Chapter 11: Legal Knowledge Representation Learning [<a href="2ed/11-legal.pdf" target="_blank">pdf</a>]
-- Chapter 12: Biomedical Knowledge Representation Learning [<a href="2ed/12-bio.pdf" target="_blank">pdf</a>]
+- Chapter 10: Sememe Knowledge Representation Learning [<a href="2ed/10-sememe.pdf" target="_blank">pdf</a>]  (update: Oct 07, 2022)
+- Chapter 11: Legal Knowledge Representation Learning [<a href="2ed/11-legal.pdf" target="_blank">pdf</a>]  (update: Oct 07, 2022)
+- Chapter 12: Biomedical Knowledge Representation Learning [<a href="2ed/12-bio.pdf" target="_blank">pdf</a>]  (update: Oct 07, 2022)
 - Chapter 13: OpenBMB: Big Model Systems for Large-scale Representation Learning [TBA]
 - Chapter 14: A 2023 Outlook for Representation Learning: Ten Key Problems of Pre-trained Models [TBA]
 
@@ -76,17 +76,21 @@ Table of Contents
 
 Editors: Zhiyuan Liu, Yankai Lin, Maosong Sun
 
+Authors: 
 - Chapter 1: Zhiyuan Liu, Maosong Sun.
-- Chapter 2: Ning Ding, Yankai Lin, Zhiyuan Liu, Maosong Sun.
+- Chapter 2: Shengding Hu, Zhiyuan Liu, Yankai Lin, Maosong Sun.
 - Chapter 3: Ning Ding, Yankai Lin, Zhiyuan Liu, Maosong Sun.
-- Chapter 4: Yankai Lin, Zhengyan Zhang, Cunchao Tu, Hongyin Luo.
-- Chapter 5: Yankai Lin, Zhenghao Liu, Haozhe Ji.
-- Chapter 6: Fanchao Qi, Chenghao Yang.
-- Chapter 7: Ruobing Xie, Xu Han.
-- Chapter 8: Cheng Yang, Jie Zhou, Zhengyan Zhang.
-- Chapter 9: Ji Xin, Yuan Yao, Deming Ye, Hao Zhu.
-- Chapter 10: Xu Han, Zhengyan Zhang, Cheng Yang.
-- Chapter 11: Cheng Yang, Zhiyuan Liu.
+- Chapter 4: Ning Ding, Yankai Lin, Zhiyuan Liu, Maosong Sun.
+- Chapter 5: Yankai Lin, Ning Ding, Zhiyuan Liu, Maosong Sun.
+- Chapter 6: Yankai Lin, Cheng Yang, Zhiyuan Liu, Maosong Sun.
+- Chapter 7: Yuan Yao, Zhiyuan Liu, Maosong Sun.
+- Chapter 8: Ganqu Cui, Yangyi Chen, Zhiyuan Liu, Maosong Sun.
+- Chapter 9: Xu Han, Yuan Yao, Zhengyan Zhang, Weize Chen, Zhiyuan Liu, Maosong Sun.
+- Chapter 10: Yujia Qin, Zhiyuan Liu, Maosong Sun.
+- Chapter 11: Chaojun Xiao, Yuzhong Wang, Zhiyuan Liu, Maosong Sun.
+- Chapter 12: Zheni Zeng, Chenyang Song, Zhiyuan Liu, Maosong Sun.
+- Chapter 13: TBD.
+- Chapter 14: TBD.
 
 ### Contributors of The First Edition
 
@@ -115,7 +119,7 @@ For the whole book, we thank Chaojun Xiao and Zhengyan Zhang for drawing model f
 **Jul 03, 2020**. The first edition is published in Springer as an Open Access book.
 
 <div align="center">
-<img src="figure/cover_rl4nlp.jpeg" width="150px">
+<img src="figures/cover_rl4nlp.jpeg" width="150px">
 
 The first-edition book cover.
 </div>
