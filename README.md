@@ -46,7 +46,7 @@ We welcome feedback, corrections, and suggestions to the book that can be posted
 - Chapter 7: Cross-Modal Representation Learning [<a href="2ed/7-modal.pdf" target="_blank">pdf</a>]  (update: Oct 07, 2022)
 - Chapter 8: Robust Representation Learning [<a href="2ed/8-robust.pdf" target="_blank">pdf</a>]  (update: Oct 07, 2022)
 - Chapter 9: Knowledge Representation Learning and Knowledge-guided NLP [TBA]
-- Chapter 10: Sememe Knowledge Representation Learning [<a href="2ed/10-sememe.pdf" target="_blank">pdf</a>]  (update: Oct 07, 2022)
+- Chapter 10: Linguistic and Commonsense Knowledge Representation Learning with Sememe Knowledge Bases [<a href="2ed/10-sememe.pdf" target="_blank">pdf</a>]  (update: Oct 07, 2022)
 - Chapter 11: Legal Knowledge Representation Learning [<a href="2ed/11-legal.pdf" target="_blank">pdf</a>]  (update: Oct 07, 2022)
 - Chapter 12: Biomedical Knowledge Representation Learning [<a href="2ed/12-bio.pdf" target="_blank">pdf</a>]  (update: Oct 07, 2022)
 - Chapter 13: OpenBMB: Big Model Systems for Large-scale Representation Learning [TBA]
